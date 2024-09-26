@@ -2,14 +2,10 @@
 using System;
 
 
-namespace One
-{
-  class One{
-    public void Main(){
-      Int myName= 32;
+class One{
+  public void Main(){
+    int myName= 32;
 
-      Console.WriteLine(myName);
-      return 0;
-    }
+    Console.WriteLine(myName);
   }
 }
